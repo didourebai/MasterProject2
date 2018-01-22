@@ -1,0 +1,15 @@
+D:\MasterProject\MasterProject\MasterProject\bin\Debug\netstandard2.0\MasterProject.deps.json
+D:\MasterProject\MasterProject\MasterProject\bin\Debug\netstandard2.0\MasterProject.dll
+D:\MasterProject\MasterProject\MasterProject\bin\Debug\netstandard2.0\MasterProject.pdb
+D:\MasterProject\MasterProject\MasterProject\obj\Debug\netstandard2.0\MasterProject.csprojResolveAssemblyReference.cache
+D:\MasterProject\MasterProject\MasterProject\obj\Debug\netstandard2.0\MasterProject.csproj.CoreCompileInputs.cache
+D:\MasterProject\MasterProject\MasterProject\obj\Debug\netstandard2.0\MasterProject.App.xaml.g.cs
+D:\MasterProject\MasterProject\MasterProject\obj\Debug\netstandard2.0\MasterProject.MainPage.xaml.g.cs
+D:\MasterProject\MasterProject\MasterProject\obj\Debug\netstandard2.0\MasterProject.Views.MasterPage.xaml.g.cs
+D:\MasterProject\MasterProject\MasterProject\obj\Debug\netstandard2.0\MasterProject.Views.Page1.xaml.g.cs
+D:\MasterProject\MasterProject\MasterProject\obj\Debug\netstandard2.0\MasterProject.Views.Page2.xaml.g.cs
+D:\MasterProject\MasterProject\MasterProject\obj\Debug\netstandard2.0\MasterProject.Views.Page3.xaml.g.cs
+D:\MasterProject\MasterProject\MasterProject\obj\Debug\netstandard2.0\MasterProject.AssemblyInfoInputs.cache
+D:\MasterProject\MasterProject\MasterProject\obj\Debug\netstandard2.0\MasterProject.AssemblyInfo.cs
+D:\MasterProject\MasterProject\MasterProject\obj\Debug\netstandard2.0\MasterProject.dll
+D:\MasterProject\MasterProject\MasterProject\obj\Debug\netstandard2.0\MasterProject.pdb

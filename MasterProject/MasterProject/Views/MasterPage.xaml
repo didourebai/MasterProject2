@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MasterProject.Views.MasterPage">
+
+ 
+<!--This is the master part-->
+    <MasterDetailPage.Master >
+
+        <ContentPage Padding="10" BackgroundColor="Gray" Title="Master" Icon="hamburger.png">
+            <ContentPage.Content>
+                <StackLayout Margin="5,30,5,5">
+                    <Label Text="Master Page">
+                    </Label>
+
+                    <Button x:Name="goToPage1" Text="Go to Page 1" BackgroundColor="Yellow" Clicked="goToPage1_Clicked"></Button>
+
+                    <Button x:Name="goToPage2" Text="Go to Page 2" BackgroundColor="Red" Clicked="goToPage2_Clicked"></Button>
+
+                    <Button x:Name="goToPage3" Text="Go to Page 3" BackgroundColor="Green" Clicked="goToPage3_Clicked"></Button>
+
+                </StackLayout>
+            </ContentPage.Content>
+        </ContentPage>
+    </MasterDetailPage.Master>
+<!--Here we will display our Details-->
+    <MasterDetailPage.Detail>
+
+        <ContentPage Padding="10">
+            <ContentPage.Content>
+                <StackLayout Margin="5,30,5,5">
+                    <Label Text="Detail  Page">
+                    </Label>
+                </StackLayout>
+            </ContentPage.Content>
+        </ContentPage>
+    </MasterDetailPage.Detail>
+</MasterDetailPage>
